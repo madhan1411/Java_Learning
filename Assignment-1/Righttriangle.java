@@ -2,6 +2,7 @@ package com.assignments;
 
 
 public class Righttriangle {
+    //Q7
     public static void main(String[] args) {
         long a, b, c;
 

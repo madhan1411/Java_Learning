@@ -3,6 +3,7 @@ package com.assignments;
 import java.util.Scanner;
 
 public class Squareasterisks
+    //Q5
 {
     public static void main(String[] args)
     {

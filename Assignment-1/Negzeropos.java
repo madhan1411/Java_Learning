@@ -3,6 +3,7 @@ package com.assignments;
 import java.util.Scanner;
 
 public class Negzeropos {
+    //Q3
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int neg=0,zero = 0,pos=0;

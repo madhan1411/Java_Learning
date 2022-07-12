@@ -1,6 +1,7 @@
 package com.assignments;
 
 public class Factorial {
+    //Q8
     public static void main(String[] args) {
         int flag=20;
         long res=1; 

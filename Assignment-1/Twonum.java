@@ -3,6 +3,7 @@ package com.assignments;
 import java.util.Scanner;
 
 public class Twonum {
+    //Q1
     public static void main(String[] args) {
         Scanner input=new Scanner(System.in);
         int num1,num2;
